@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  margin-top: 250px;
+}
+.container .button {
+  text-align: center;
+  align-items: center;
+  padding: 20px 30px;
+  border: none;
+  background-color: rgb(186, 42, 186);
+  color: rgb(43, 4, 80);
+}
